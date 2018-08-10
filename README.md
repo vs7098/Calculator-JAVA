@@ -4,11 +4,12 @@ Java Program for Calculator - This program will read two integer numbers and cal
 Calculator Example using Java Program
 /*Java program for Calculator.*/
  
-import java.util.*;
+
  
-public class Calculator{
+     import java.util.*;
  
-     public static void main(String []args){
+     public class Calculator{
+        public static void main(String []args){
          int a,b,choice;
          float result=0;
          /*scanner class object to read values*/
