@@ -43,9 +43,8 @@ public class Calculator{
          }
          if(choice>=1 && choice<=5)
             System.out.println("Result is: " + result);
-          
-     }
-}
+          }
+        }
     
     First Run:
     me@linux:~$ javac Calculator.java 
