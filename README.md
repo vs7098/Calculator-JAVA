@@ -47,6 +47,7 @@ public class Calculator{
         }
    
    ******************* OUTPUT ****************
+    
     First Run:
     me@linux:~$ javac Calculator.java 
 
